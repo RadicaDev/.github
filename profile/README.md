@@ -1,4 +1,4 @@
-# 🚀 Radica | _Authenticity through Innovation_
+# 🚀 Radica | _Root of Trust, Anchored on Blockchain_
 
 Welcome to **Radica**! 🌿
 
