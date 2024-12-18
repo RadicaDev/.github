@@ -1,4 +1,4 @@
-# 🚀 Radica | _Root of Trust, Anchored on Blockchain_
+# Radica
 
 Welcome to **Radica**! 🌿
 
@@ -32,7 +32,7 @@ At Radica, we are on a mission to revolutionize product verification for luxury 
 | 📲 [**Mobile App**](https://github.com/RadicaDev/radica-mobile-app)     | React Native-based app for scanning NFC tags and verifying products.                                         |
 | 🌐 [**Website**](https://github.com/RadicaDev/radica-website)           | Landing page showcasing Radica's technology.                                                                 |
 | 📄 [**Docs**](https://github.com/RadicaDev/docs)                        | Technical documentation website.                                                                             |
-| 🪙 [**Hedera Integration**](https://github.com/RadicaDev/radica-hedera) | Script to use Hedera native services to implement Radica protocol.                                           |
+| 🪙 [**Hedera Integration**](https://github.com/RadicaDev/radica-hedera) | Demo script to use Hedera native services to implement Radica protocol.                                           |
 
 ## 💡 Technologies We Use
 
