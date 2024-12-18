@@ -32,7 +32,7 @@ At Radica, we are on a mission to revolutionize product verification for luxury 
 | 📲 [**Mobile App**](https://github.com/RadicaDev/radica-mobile-app)     | React Native-based app for scanning NFC tags and verifying products.                                         |
 | 🌐 [**Website**](https://github.com/RadicaDev/radica-website)           | Landing page showcasing Radica's technology.                                                                 |
 | 📄 [**Docs**](https://github.com/RadicaDev/docs)                        | Technical documentation website.                                                                             |
-| 🪙 [**Hedera Integration**](https://github.com/RadicaDev/radica-hedera) | Demo script to use Hedera native services to implement Radica protocol.                                           |
+| 🪙 [**Hedera Integration**](https://github.com/RadicaDev/radica-hedera) | Demo script to use Hedera native services to implement Radica protocol.                                      |
 
 ## 💡 Technologies We Use
 
@@ -44,5 +44,5 @@ At Radica, we are on a mission to revolutionize product verification for luxury 
 
 - 🌐 Website: [radica.dev](https://radica.dev)
 - 📄 Docs: [docs.radica.dev](https://docs.radica.dev)
-- ✉️ Email: [francescolaterza00+radica@gmail.com](mailto:francescolaterza00+radica@gmail.com)
+- ✉️ Email: [cicciord@radica.dev](mailto:cicciord@radica.dev)
 - 📦 GitHub: [RadicaDev](https://github.com/RadicaDev)
